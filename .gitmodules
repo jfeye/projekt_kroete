@@ -1,0 +1,9 @@
+[submodule "lib/Adafruit-BMP085-Library"]
+	path = lib/Adafruit-BMP085-Library
+	url = git@github.com:adafruit/Adafruit-BMP085-Library.git
+[submodule "lib/Adafruit_SSD1306"]
+	path = lib/Adafruit_SSD1306
+	url = git@github.com:adafruit/Adafruit_SSD1306.git
+[submodule "lib/Adafruit-GFX-Library"]
+	path = lib/Adafruit-GFX-Library
+	url = git@github.com:adafruit/Adafruit-GFX-Library.git
